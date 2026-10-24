@@ -1,0 +1,23 @@
+# 编译输出
+build/
+out/
+bin/
+obj/
+
+# Visual Studio 缓存
+.vs/
+
+# 编译产物
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+
+# 软件生成的文件
+ChongYang_Log.txt
+文件创建时间.txt
+
+# AI记忆缓存
+.codebuddy/
